@@ -1,0 +1,11 @@
+# basic options... comment
+title: Block chain 
+author: root
+email: root@domain.com
+description: A site superb
+twitter_username: root
+github_username:  root01
+
+# Build settings
+markdown: kramdown
+theme: minima
